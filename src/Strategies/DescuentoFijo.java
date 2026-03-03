@@ -1,4 +1,4 @@
-package Models;
+package Strategies;
 
 public class DescuentoFijo implements DescuentoStrategy {
     private double montoDescuento;

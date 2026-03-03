@@ -1,4 +1,4 @@
-package Models;
+package Strategies;
 
 public class DescuentoTemporada implements DescuentoStrategy {
     private double porcentajeBase;

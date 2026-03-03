@@ -1,4 +1,4 @@
-package Models;
+package Strategies;
 
 public class SinDescuento implements DescuentoStrategy {
     @Override

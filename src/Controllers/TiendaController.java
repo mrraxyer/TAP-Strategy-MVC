@@ -1,6 +1,10 @@
 package Controllers;
 
-import Models.*;
+import Models.Producto;
+import Strategies.DescuentoPorcentaje;
+import Strategies.DescuentoFijo;
+import Strategies.SinDescuento;
+import Strategies.DescuentoTemporada;
 import Views.ConsoleView;
 
 public class TiendaController {

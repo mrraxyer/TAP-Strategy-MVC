@@ -1,5 +1,8 @@
 package Models;
 
+import Strategies.DescuentoStrategy;
+import Strategies.SinDescuento;
+
 public class Producto {
     private String nombre;
     private double precioBase;
